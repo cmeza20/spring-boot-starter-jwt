@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.cmeza.spring.security.jwt.application.processors.JwtEnvironmentPostProcessor
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.cmeza.spring.security.jwt.JwtSecurityAutoConfiguration
