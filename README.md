@@ -1,4 +1,4 @@
-# Spring boot starter JWT [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.cmeza/spring-boot-stater-jwt/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.cmeza/spring-boot-stater-jwt)
+# Spring boot starter JWT [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.cmeza/spring-boot-starter-jwt/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.cmeza/spring-boot-starter-jwt)
 
 ## Features ##
 
@@ -14,7 +14,7 @@
 ## Dependencies ##
 
 * **Java >= 8**
-* **spring-boot-starter-parent >= 2.4.0 && <= 2.7.7**
+* **spring-boot-starter-parent >= 2.4.0 && < 3.0.0**
 * **spring-boot-starter-web**
 * **spring-boot-starter-security**
 * **@EnableWebSecurity annotation**
